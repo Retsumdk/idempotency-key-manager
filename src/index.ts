@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 /**
  * idempotency-key-manager - Idempotency key storage to prevent duplicate API operations
- * Built with Zo Computer by The BookMaster
+ * Built with @Retsumdk by Retsumdk
  */
 
 import { Command } from "commander";
