@@ -1,5 +1,9 @@
 # idempotency-key-manager
 
+[![CI](https://github.com/Retsumdk/idempotency-key-manager/workflows/CI/badge.svg)](https://github.com/Retsumdk/idempotency-key-manager/actions)
+[![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 Idempotency key storage to prevent duplicate API operations
 
 ## Features
@@ -7,7 +11,7 @@ Idempotency key storage to prevent duplicate API operations
 - Production-ready code
 - TypeScript/Python with full type safety
 - Comprehensive error handling
-- Built with @Retsumdk by Retsumdk
+- Built by Retsumdk
 
 ## Installation
 
@@ -33,4 +37,5 @@ MIT License
 
 ---
 
-Built by [Retsumdk](https://github.com/Retsumdk) with Zo Computer
+Built by [Retsumdk](https://github.com/Retsumdk)
+
