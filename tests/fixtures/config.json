@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://api.test.example",
+  "timeout": 5000,
+  "retries": 1
+}
